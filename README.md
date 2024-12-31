@@ -10,7 +10,7 @@ This project showcases a simple yet engaging simulation of a ball being dribbled
 
 * **Graphics Rendering:** The project utilizes OpenGL for rendering the ball and the field, showcasing the capabilities of this powerful graphics library.
 
-**Technologies Used:**
+**language and library Used:**
 
 * **OpenGL:** For rendering graphics and handling the visual aspects of the simulation.
 
